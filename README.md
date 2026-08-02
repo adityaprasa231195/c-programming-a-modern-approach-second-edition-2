@@ -1,6 +1,23 @@
-# C-programming-a-modern-approach-second-edition-by-K. N. King
+# C Primer Plus
 
-My personal solutions, code exercises, and programming projects while learning C from the book **[C-programming-a-modern-approach] by K. N. King.
+My personal solutions, code exercises, and programming projects while learning C from the book **C Primer Plus** by **Stephen Prata**.
 
 ## 🚀 Purpose
-To build a strong foundation in C89/C99 programming, data structures, algorithms, and memory management through practical implementation.
+
+To build a strong foundation in C programming by practicing concepts from the book, including:
+
+- C language fundamentals
+- Control flow and functions
+- Arrays, strings, and pointers
+- Structures and unions
+- Dynamic memory allocation
+- File handling
+- Data structures and problem-solving
+- Writing clean and efficient C code
+
+## 📚 Book
+
+**C Primer Plus**  
+*Author:* Stephen Prata
+
+> This repository is for educational purposes only. All solutions and implementations are my own work while studying the book.
