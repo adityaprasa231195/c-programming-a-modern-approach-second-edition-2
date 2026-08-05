@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>   // provides strlen() prototype
+#include <string.h>   
 
 #define PRAISE "What a super marvelous name!"
 
